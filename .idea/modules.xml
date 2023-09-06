@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/build_apps_with_flutter/build_apps_with_flutter.iml" filepath="$PROJECT_DIR$/build_apps_with_flutter/build_apps_with_flutter.iml" />
       <module fileurl="file://$PROJECT_DIR$/flutter_tutorial.iml" filepath="$PROJECT_DIR$/flutter_tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/material_components_flutter/material_components_flutter.iml" filepath="$PROJECT_DIR$/material_components_flutter/material_components_flutter.iml" />
     </modules>
   </component>
 </project>
