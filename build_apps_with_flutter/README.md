@@ -1,16 +1,7 @@
-# build_apps_with_flutter
+# Build apps with Flutter
 
-Your first Flutter app
+Learn to build beautiful, natively compiled desktop, mobile, and web applications from a single codebase with Flutter.
 
-## Getting Started
+4 activities • 1 quiz
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✔ [Link of course](https://developers.google.com/learn/pathways/intro-to-flutter#codelab-/codelabs/from-java-to-dart)
